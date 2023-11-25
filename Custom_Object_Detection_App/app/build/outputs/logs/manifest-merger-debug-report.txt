@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\9c150f46cd573884eeef284db343ab48\transformed\jetified-tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\0f4e8d158c33143171d1124b06e19bcf\transformed\jetified-tensorflow-lite-task-vision-0.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-task-text:0.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\a248dc9b6f9a108d4e4c3f99b8131560\transformed\jetified-tensorflow-lite-task-text-0.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\c88b165af425a231e796a8b3df0073a1\transformed\jetified-tensorflow-lite-support-0.1.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\945c0ab86e625e3615396baf9cc3fb3d\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\adf458e59ed53638a0ad8823f742998b\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\95dea423136e7a64d8dd34f24ee31ede\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:openCVLibrary3413] C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\openCVLibrary3413\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\c654f1735f7cdf6b885a71264a9d5229\transformed\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\a05b5f1e6385b9f08a4ada91b6cc0c30\transformed\jetified-tensorflow-lite-task-base-0.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\aa4df78c5efe590bbf517db253e60295\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\30ceedb851e3932d78a9a1a55d243849\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\283acf056c7408af92076127cc309834\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\dbbc22a7bb5fdcde40265b15f0fdd6df\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\5c66f745d29374bfe6874b39d7840db7\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\b46b5883d688a0d38b6806347bce08f7\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\0aed6984cae69ac82fed103a816bd3eb\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\4afcbcb608cafe99c72ad31a822992f6\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\52ee1f3d81819a9f602a0bb8b7b5c764\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\e2d68505518aff6a27c476e1ad5cecad\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\46f4a0fe737e67edfb90d5b8bb180b03\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\61ce494095e259c621699072dd0c1344\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\59e7eb0eb6941443c0d4c213540db25a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\8c4e9c8fa89e2238233fafba4478a312\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\43d568074e51a3bb8f41a93c8a9c9533\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\1290d50f29063c76edc35b25f7fe77cf\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\ce8c677b741085f0d6334d5528ccfe83\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\0d1ac0f9794feee07f7672d048099ff2\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\27f0fcb1ef1ce4ed97594ebe02280f13\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\6fda12d66b6f6573633a6bf7eecd6d19\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\72c22fa2bdf9a11cad05fbf2add852bb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\f0fc70e81d0ad914c27bcbf70a336b88\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\a0ff7fce331c348e8dbfcf4045c9b4f7\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\17a45ac3682691d1439a0e165c596c2c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\20419aed3d57f34b76f55aa4c3cba5d2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\dfe183fd3fc7b48f4a8eabb7cc58641f\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\0486edcad919b74485852fd9bf32cf08\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\f4dfa5d9f74cc5626323bedc38898849\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\77c4cf8dd752d3d4256b218ebc846fad\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\9d70974d6e72403e78fc062a2a63d65e\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:7:5-9:36
+	android:required
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:8:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:10:5-12:36
+	android:required
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:12:9-33
+	android:name
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:11:9-57
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:14:9-53
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:17:9-63
+application
+ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:20:5-38:19
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\9c150f46cd573884eeef284db343ab48\transformed\jetified-tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\9c150f46cd573884eeef284db343ab48\transformed\jetified-tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\945c0ab86e625e3615396baf9cc3fb3d\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\945c0ab86e625e3615396baf9cc3fb3d\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\adf458e59ed53638a0ad8823f742998b\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\adf458e59ed53638a0ad8823f742998b\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\c654f1735f7cdf6b885a71264a9d5229\transformed\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\c654f1735f7cdf6b885a71264a9d5229\transformed\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\a05b5f1e6385b9f08a4ada91b6cc0c30\transformed\jetified-tensorflow-lite-task-base-0.1.0\AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\a05b5f1e6385b9f08a4ada91b6cc0c30\transformed\jetified-tensorflow-lite-task-base-0.1.0\AndroidManifest.xml:4:4-5:18
+MERGED from [androidx.core:core:1.3.1] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\0d1ac0f9794feee07f7672d048099ff2\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\0d1ac0f9794feee07f7672d048099ff2\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\27f0fcb1ef1ce4ed97594ebe02280f13\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\27f0fcb1ef1ce4ed97594ebe02280f13\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\0d1ac0f9794feee07f7672d048099ff2\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:26:9-46
+activity#com.example.imagepro.StoragePredictionActivity
+ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:28:13-54
+activity#com.example.imagepro.CameraActivity
+ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:30:9-52
+	android:name
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:30:19-49
+activity#com.example.imagepro.MainActivity
+ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:31:9-37:20
+	android:name
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:31:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\9c150f46cd573884eeef284db343ab48\transformed\jetified-tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.2.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\9c150f46cd573884eeef284db343ab48\transformed\jetified-tensorflow-lite-gpu-2.2.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\0f4e8d158c33143171d1124b06e19bcf\transformed\jetified-tensorflow-lite-task-vision-0.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\0f4e8d158c33143171d1124b06e19bcf\transformed\jetified-tensorflow-lite-task-vision-0.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-text:0.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\a248dc9b6f9a108d4e4c3f99b8131560\transformed\jetified-tensorflow-lite-task-text-0.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-text:0.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\a248dc9b6f9a108d4e4c3f99b8131560\transformed\jetified-tensorflow-lite-task-text-0.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\c88b165af425a231e796a8b3df0073a1\transformed\jetified-tensorflow-lite-support-0.1.0\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\c88b165af425a231e796a8b3df0073a1\transformed\jetified-tensorflow-lite-support-0.1.0\AndroidManifest.xml:4:3-71
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\945c0ab86e625e3615396baf9cc3fb3d\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\945c0ab86e625e3615396baf9cc3fb3d\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\adf458e59ed53638a0ad8823f742998b\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\adf458e59ed53638a0ad8823f742998b\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\95dea423136e7a64d8dd34f24ee31ede\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\95dea423136e7a64d8dd34f24ee31ede\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:openCVLibrary3413] C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\openCVLibrary3413\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary3413] C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\openCVLibrary3413\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\c654f1735f7cdf6b885a71264a9d5229\transformed\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\c654f1735f7cdf6b885a71264a9d5229\transformed\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\aa4df78c5efe590bbf517db253e60295\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\aa4df78c5efe590bbf517db253e60295\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\30ceedb851e3932d78a9a1a55d243849\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\30ceedb851e3932d78a9a1a55d243849\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\283acf056c7408af92076127cc309834\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\283acf056c7408af92076127cc309834\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\dbbc22a7bb5fdcde40265b15f0fdd6df\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\dbbc22a7bb5fdcde40265b15f0fdd6df\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\5c66f745d29374bfe6874b39d7840db7\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\5c66f745d29374bfe6874b39d7840db7\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\b46b5883d688a0d38b6806347bce08f7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\b46b5883d688a0d38b6806347bce08f7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\0aed6984cae69ac82fed103a816bd3eb\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\0aed6984cae69ac82fed103a816bd3eb\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\4afcbcb608cafe99c72ad31a822992f6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\4afcbcb608cafe99c72ad31a822992f6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\52ee1f3d81819a9f602a0bb8b7b5c764\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\52ee1f3d81819a9f602a0bb8b7b5c764\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\e2d68505518aff6a27c476e1ad5cecad\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\e2d68505518aff6a27c476e1ad5cecad\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\46f4a0fe737e67edfb90d5b8bb180b03\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\46f4a0fe737e67edfb90d5b8bb180b03\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\61ce494095e259c621699072dd0c1344\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\61ce494095e259c621699072dd0c1344\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\59e7eb0eb6941443c0d4c213540db25a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\59e7eb0eb6941443c0d4c213540db25a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\8c4e9c8fa89e2238233fafba4478a312\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\8c4e9c8fa89e2238233fafba4478a312\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\43d568074e51a3bb8f41a93c8a9c9533\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\43d568074e51a3bb8f41a93c8a9c9533\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\1290d50f29063c76edc35b25f7fe77cf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\1290d50f29063c76edc35b25f7fe77cf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\ce8c677b741085f0d6334d5528ccfe83\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\ce8c677b741085f0d6334d5528ccfe83\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\0d1ac0f9794feee07f7672d048099ff2\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\0d1ac0f9794feee07f7672d048099ff2\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\27f0fcb1ef1ce4ed97594ebe02280f13\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\27f0fcb1ef1ce4ed97594ebe02280f13\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\6fda12d66b6f6573633a6bf7eecd6d19\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\6fda12d66b6f6573633a6bf7eecd6d19\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\72c22fa2bdf9a11cad05fbf2add852bb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\72c22fa2bdf9a11cad05fbf2add852bb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\f0fc70e81d0ad914c27bcbf70a336b88\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\f0fc70e81d0ad914c27bcbf70a336b88\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\a0ff7fce331c348e8dbfcf4045c9b4f7\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\a0ff7fce331c348e8dbfcf4045c9b4f7\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\17a45ac3682691d1439a0e165c596c2c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\17a45ac3682691d1439a0e165c596c2c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\20419aed3d57f34b76f55aa4c3cba5d2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\20419aed3d57f34b76f55aa4c3cba5d2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\dfe183fd3fc7b48f4a8eabb7cc58641f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\dfe183fd3fc7b48f4a8eabb7cc58641f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\0486edcad919b74485852fd9bf32cf08\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\0486edcad919b74485852fd9bf32cf08\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\f4dfa5d9f74cc5626323bedc38898849\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\f4dfa5d9f74cc5626323bedc38898849\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\77c4cf8dd752d3d4256b218ebc846fad\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\77c4cf8dd752d3d4256b218ebc846fad\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\9d70974d6e72403e78fc062a2a63d65e\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Pragati Sathia\.gradle\caches\transforms-3\9d70974d6e72403e78fc062a2a63d65e\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:2:1-40:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:2:1-40:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Pragati Sathia\Desktop\Pragati\akasa company\Custom_Object_Detection_App\app\src\main\AndroidManifest.xml:2:1-40:12 reason: src.java.org.tensorflow.lite.task.core requested WRITE_EXTERNAL_STORAGE
